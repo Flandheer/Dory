@@ -22,4 +22,4 @@ width_m: Width of barge in meter
 
 # Useful tools
 Lat and long where plot using <a href=https://developers.arcgis.com/python/>arcgis</a>
-Polylines can be decoded with<a href=https://developers.google.com/maps/documentation/utilities/polylineutility>polylineutility</a>
+Polylines can be decoded with <a href=https://developers.google.com/maps/documentation/utilities/polylineutility>polylineutility</a>
